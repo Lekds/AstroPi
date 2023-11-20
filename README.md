@@ -2,7 +2,7 @@
 
 ## Contributors:
 - **[Zhao Qi]**
-- **[Sayeed]**
+- **[Ehsen]**
 - **[Wase]**
 - **[Theo]**
 - **[Sadiq]**
